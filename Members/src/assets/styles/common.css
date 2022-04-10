@@ -1,0 +1,315 @@
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Regular.ttf);
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Thin.ttf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-ExtraLight.ttf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Regular.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Medium.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-SemiBold.ttf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-ExtraBold.ttf);
+  font-weight: 800;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: local('Lexend'), url(@/assets/fonts/Lexend-Black.ttf);
+  font-weight: 900;
+}
+
+.router-area {
+  max-height: calc(100vh - 72px);
+  overflow: scroll;
+}
+* {
+  outline: none !important;
+}
+/* common utility class */
+.p-15 {
+  padding: 15px !important;
+}
+.p-r-15 {
+  padding-right: 15px !important;
+}
+.p-t-15 {
+  padding-top: 15px !important;
+}
+/*Button common css */
+.table-header Button {
+  background: #5e66fa !important;
+  border-radius: 4px;
+  height: 44px;
+  font-weight: 600;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+/* Input box css */
+.table-header .p-inputtext {
+  width: 403px;
+  height: 100%;
+  border: solid 1px #cacbcd;
+  border-radius: 4px;
+  font-size: 15px;
+  color: #aaabad;
+  font-weight: 400;
+}
+.p-sidebar-right {
+  width: 50vw !important;
+}
+@media only screen and (max-width: 1024px) {
+  .table-header .p-inputtext {
+    width: 185px !important;
+  }
+}
+
+/*Table tab menu css*/
+.p-tabmenu {
+  font-family: Lexend !important;
+  font-weight: 500 !important;
+  color: #3f3f40;
+  font-size: 15px !important;
+  border: solid 1px #e2e2e2;
+  border-radius: 4px;
+  margin-left: 20px;
+  width: max-content;
+}
+@media only screen and (max-width: 1024px) {
+  .p-tabmenu {
+    margin-left: 5px;
+  }
+}
+.p-tabmenu .p-tabmenu-nav .p-tabmenuitem .p-menuitem-link {
+  border: none !important;
+  border-width: 0px !important;
+  margin: 0px !important;
+  font-weight: 500 !important;
+  padding: 16px !important;
+}
+.p-tabmenu .p-tabmenu-nav {
+  border: 0px !important;
+}
+.p-tabmenuitem.p-highlight .p-menuitem-link {
+  background: #5e66fa !important;
+  border-color: #ffffff !important;
+  color: #ffffff !important;
+}
+.p-tabmenu-nav .p-tabmenuitem .p-menuitem-link:not(.p-disabled):focus {
+  box-shadow: none !important;
+}
+.p-tabmenu .p-tabmenu-nav .p-tabmenuitem {
+  border-right: 1px solid #dee2e6;
+}
+
+/*Table Status background color */
+.customer-badge {
+  border-radius: 4px;
+  padding: 3px 8px 3px 8px;
+  font-size: 11px;
+}
+.INACTIVE {
+  background-color: rgba(170, 171, 173, 0.1);
+  color: #aaabad;
+  font-weight: 500;
+}
+.ACTIVE {
+  background-color: rgba(11, 201, 132, 0.1);
+  color: #0bc984;
+  font-weight: 500;
+}
+
+/*All table css */
+.p-datatable {
+  background: #ffffff !important;
+  font-family: Lexend !important;
+  font-size: 15px !important;
+  color: #3f3f40 !important;
+  font-weight: normal !important;
+}
+.p-datatable .p-datatable-header {
+  background: transparent !important;
+}
+
+.p-datatable .p-datatable-thead tr > th {
+  font-size: 11px !important;
+  color: #aaabad !important;
+  border: none !important;
+}
+.p-datatable .p-datatable-tbody > tr > td {
+  border: 1px solid #e9ecef !important;
+  border-width: 0 0 1px 0 !important;
+}
+
+/*Table Paginator*/
+.p-paginator .p-paginator-current {
+  margin-right: auto !important;
+}
+.p-paginator .p-paginator-pages .p-paginator-page {
+  font-size: 13px !important;
+  color: #49494a !important;
+  font-family: Lexend;
+  font-weight: 500;
+  line-height: 16px;
+}
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+  background: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #5e66fa !important;
+}
+.data-table .p-link:focus {
+  box-shadow: none !important;
+}
+.col-name {
+  font-weight: 500;
+}
+.thin-col {
+  font-weight: 300;
+}
+.inactive {
+  opacity: 0.5;
+}
+
+/* Popups css */
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #3f3f40;
+  text-align: center;
+}
+
+.inputTitle {
+  font-weight: 500;
+  font-size: 11px;
+  color: #3f3f40;
+}
+
+.inputContainer .p-inputtext {
+  width: 100%;
+  height: 44px;
+  padding: 10px;
+  border-color: #cacbcd;
+  color: #000;
+  font-weight: 300 !important;
+  font-size: 15px;
+}
+.inputContainer .p-inputtext::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #000;
+  opacity: 1; /* Firefox */
+}
+
+.p-password i {
+  color: #3f3f40 !important;
+}
+.p-checkbox .p-checkbox-box.p-highlight {
+  background: #fff !important;
+}
+.p-checkbox .p-checkbox-box .p-checkbox-icon {
+  color: #5e66fa !important;
+}
+.p-inputtext:enabled:focus,
+.p-inputtext:hover {
+  border-color: #49494a !important;
+  box-shadow: none !important;
+}
+.popupContainer {
+  width: 424px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.logo {
+  text-align: center;
+}
+.popupContent {
+  background: #ffffff;
+  font-family: Lexend;
+  padding: 30px 25px !important;
+}
+.p-checkbox .p-checkbox-box {
+  border: 1px solid #5e66fa !important;
+}
+.chkboxLabel {
+  font-weight: 400;
+  font-size: 15px;
+  color: #3f3f40;
+}
+.subTitle {
+  font-weight: 300;
+  font-size: 13px;
+  color: #3f3f40;
+  text-align: center;
+}
+.popupBtnLeft {
+  height: 44px;
+  padding: 14px !important;
+  border-radius: 4px !important;
+  background-color: #5e66fa !important;
+  border: 1px solid #5e66fa !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+}
+
+.popupBtnRight {
+  color: #3f3f40 !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+}
+
+.p-dropdown {
+  width: 100%;
+  height: 44px;
+  border-color: #cacbcd;
+  color: #3f3f40;
+  align-items: center;
+  font-size: 15px;
+}
+.p-highlight {
+  color: #0bc984 !important;
+  background: transparent !important;
+}
+.p-highlight .p-checkbox .p-checkbox-box .p-checkbox-icon {
+  color: #0bc984 !important;
+}
+.p-checkbox-box.p-component {
+  border: 1px solid #e2e2e2 !important;
+}
+.p-highlight .p-checkbox-box.p-component.p-highlight {
+  border: 1px solid #e2e2e2 !important;
+  box-sizing: border-box;
+  border-radius: 4px;
+}

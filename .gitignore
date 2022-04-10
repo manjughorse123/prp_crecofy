@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+__pycache__/
+/__pycache__/
+/venv*/
+/.vscode*/
+/.idea/
+**/**/migrations/**
+!**/migrations
+!**/migrations/__init__.py

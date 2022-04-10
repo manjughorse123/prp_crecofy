@@ -1,0 +1,395 @@
+{
+  "tableData": [
+    {
+      "id": 1,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 2,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 3,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 4,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 5,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 6,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 7,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 8,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 9,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 10,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 11,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 12,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 13,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 14,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 15,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 16,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 17,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 18,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 19,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 20,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 21,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 22,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 23,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 24,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 25,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 26,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 27,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 28,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 29,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 30,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 31,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "ACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 32,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 33,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 34,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 35,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 36,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 37,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    },
+    {
+      "id": 38,
+      "name": "John Smit",
+      "email": "john.smit@gmail.com",
+      "phone": "9784477117",
+      "gender": "Male",
+      "dateOfBirth": "01/11/1990",
+      "status": "INACTIVE",
+      "auction": ""
+    }
+  ],
+  "tableTabs": [
+    {
+      "label": "All"
+    },
+    {
+      "label": "Active"
+    },
+    {
+      "label": "Inactive"
+    }
+  ]
+}
